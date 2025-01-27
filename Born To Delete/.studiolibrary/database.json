@@ -1,0 +1,20 @@
+{
+    "C:/Users/Asus/OneDrive/M\u00e1y t\u00ednh/IMPORTANT/Born To Delete/fixep14": {
+        "name": "fixep14",
+        "path": "C:/Users/Asus/OneDrive/M\u00e1y t\u00ednh/IMPORTANT/Born To Delete/fixep14",
+        "type": "Folder",
+        "folder": "C:/Users/Asus/OneDrive/M\u00e1y t\u00ednh/IMPORTANT/Born To Delete",
+        "category": "Born To Delete",
+        "modified": 1722432942.7963529,
+        "__class__": "studiolibrary.folderitem.FolderItem"
+    },
+    "C:/Users/Asus/OneDrive/M\u00e1y t\u00ednh/IMPORTANT/Born To Delete/fixep14/fix.anim": {
+        "name": "fix.anim",
+        "path": "C:/Users/Asus/OneDrive/M\u00e1y t\u00ednh/IMPORTANT/Born To Delete/fixep14/fix.anim",
+        "type": ".anim",
+        "folder": "C:/Users/Asus/OneDrive/M\u00e1y t\u00ednh/IMPORTANT/Born To Delete/fixep14",
+        "category": "fixep14",
+        "modified": 1722433002.6552649,
+        "__class__": "studiolibrarymaya.animitem.AnimItem"
+    }
+}
