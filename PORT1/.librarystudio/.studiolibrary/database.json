@@ -1,0 +1,128 @@
+{
+    "C:/Users/Asus/OneDrive/M\u00e1y t\u00ednh/IMPORTANT/PORT1/.librarystudio/Poses": {
+        "category": ".librarystudio", 
+        "name": "Poses", 
+        "modified": 1722080002.355708, 
+        "__class__": "studiolibrary.folderitem.FolderItem", 
+        "path": "C:/Users/Asus/OneDrive/M\u00e1y t\u00ednh/IMPORTANT/PORT1/.librarystudio/Poses", 
+        "folder": "C:/Users/Asus/OneDrive/M\u00e1y t\u00ednh/IMPORTANT/PORT1/.librarystudio", 
+        "type": "Folder"
+    }, 
+    "C:/Users/Asus/OneDrive/M\u00e1y t\u00ednh/IMPORTANT/PORT1/.librarystudio/Poses/p1.pose": {
+        "category": "Poses", 
+        "name": "p1.pose", 
+        "__class__": "studiolibrarymaya.poseitem.PoseItem", 
+        "modified": 1722080013.5697486, 
+        "path": "C:/Users/Asus/OneDrive/M\u00e1y t\u00ednh/IMPORTANT/PORT1/.librarystudio/Poses/p1.pose", 
+        "folder": "C:/Users/Asus/OneDrive/M\u00e1y t\u00ednh/IMPORTANT/PORT1/.librarystudio/Poses", 
+        "type": ".pose"
+    }, 
+    "C:/Users/Asus/OneDrive/M\u00e1y t\u00ednh/IMPORTANT/PORT1/.librarystudio/Poses/p10.pose": {
+        "category": "Poses", 
+        "name": "p10.pose", 
+        "modified": 1722080323.3431895, 
+        "__class__": "studiolibrarymaya.poseitem.PoseItem", 
+        "path": "C:/Users/Asus/OneDrive/M\u00e1y t\u00ednh/IMPORTANT/PORT1/.librarystudio/Poses/p10.pose", 
+        "folder": "C:/Users/Asus/OneDrive/M\u00e1y t\u00ednh/IMPORTANT/PORT1/.librarystudio/Poses", 
+        "type": ".pose"
+    }, 
+    "C:/Users/Asus/OneDrive/M\u00e1y t\u00ednh/IMPORTANT/PORT1/.librarystudio/Poses/p11.pose": {
+        "category": "Poses", 
+        "name": "p11.pose", 
+        "__class__": "studiolibrarymaya.poseitem.PoseItem", 
+        "modified": 1722080340.664735, 
+        "path": "C:/Users/Asus/OneDrive/M\u00e1y t\u00ednh/IMPORTANT/PORT1/.librarystudio/Poses/p11.pose", 
+        "folder": "C:/Users/Asus/OneDrive/M\u00e1y t\u00ednh/IMPORTANT/PORT1/.librarystudio/Poses", 
+        "type": ".pose"
+    }, 
+    "C:/Users/Asus/OneDrive/M\u00e1y t\u00ednh/IMPORTANT/PORT1/.librarystudio/Poses/p12.pose": {
+        "category": "Poses", 
+        "name": "p12.pose", 
+        "modified": 1722080398.6120994, 
+        "__class__": "studiolibrarymaya.poseitem.PoseItem", 
+        "path": "C:/Users/Asus/OneDrive/M\u00e1y t\u00ednh/IMPORTANT/PORT1/.librarystudio/Poses/p12.pose", 
+        "folder": "C:/Users/Asus/OneDrive/M\u00e1y t\u00ednh/IMPORTANT/PORT1/.librarystudio/Poses", 
+        "type": ".pose"
+    }, 
+    "C:/Users/Asus/OneDrive/M\u00e1y t\u00ednh/IMPORTANT/PORT1/.librarystudio/Poses/p13.pose": {
+        "category": "Poses", 
+        "name": "p13.pose", 
+        "path": "C:/Users/Asus/OneDrive/M\u00e1y t\u00ednh/IMPORTANT/PORT1/.librarystudio/Poses/p13.pose", 
+        "folder": "C:/Users/Asus/OneDrive/M\u00e1y t\u00ednh/IMPORTANT/PORT1/.librarystudio/Poses", 
+        "type": ".pose", 
+        "modified": 1722080414.6034825, 
+        "__class__": "studiolibrarymaya.poseitem.PoseItem"
+    }, 
+    "C:/Users/Asus/OneDrive/M\u00e1y t\u00ednh/IMPORTANT/PORT1/.librarystudio/Poses/p2.pose": {
+        "category": "Poses", 
+        "name": "p2.pose", 
+        "modified": 1722080034.4751203, 
+        "__class__": "studiolibrarymaya.poseitem.PoseItem", 
+        "path": "C:/Users/Asus/OneDrive/M\u00e1y t\u00ednh/IMPORTANT/PORT1/.librarystudio/Poses/p2.pose", 
+        "folder": "C:/Users/Asus/OneDrive/M\u00e1y t\u00ednh/IMPORTANT/PORT1/.librarystudio/Poses", 
+        "type": ".pose"
+    }, 
+    "C:/Users/Asus/OneDrive/M\u00e1y t\u00ednh/IMPORTANT/PORT1/.librarystudio/Poses/p3.pose": {
+        "category": "Poses", 
+        "name": "p3.pose", 
+        "__class__": "studiolibrarymaya.poseitem.PoseItem", 
+        "modified": 1722080066.0890262, 
+        "path": "C:/Users/Asus/OneDrive/M\u00e1y t\u00ednh/IMPORTANT/PORT1/.librarystudio/Poses/p3.pose", 
+        "folder": "C:/Users/Asus/OneDrive/M\u00e1y t\u00ednh/IMPORTANT/PORT1/.librarystudio/Poses", 
+        "type": ".pose"
+    }, 
+    "C:/Users/Asus/OneDrive/M\u00e1y t\u00ednh/IMPORTANT/PORT1/.librarystudio/Poses/p4.pose": {
+        "category": "Poses", 
+        "name": "p4.pose", 
+        "modified": 1722080092.5633733, 
+        "__class__": "studiolibrarymaya.poseitem.PoseItem", 
+        "path": "C:/Users/Asus/OneDrive/M\u00e1y t\u00ednh/IMPORTANT/PORT1/.librarystudio/Poses/p4.pose", 
+        "folder": "C:/Users/Asus/OneDrive/M\u00e1y t\u00ednh/IMPORTANT/PORT1/.librarystudio/Poses", 
+        "type": ".pose"
+    }, 
+    "C:/Users/Asus/OneDrive/M\u00e1y t\u00ednh/IMPORTANT/PORT1/.librarystudio/Poses/p5.pose": {
+        "category": "Poses", 
+        "name": "p5.pose", 
+        "__class__": "studiolibrarymaya.poseitem.PoseItem", 
+        "modified": 1722080126.9622848, 
+        "path": "C:/Users/Asus/OneDrive/M\u00e1y t\u00ednh/IMPORTANT/PORT1/.librarystudio/Poses/p5.pose", 
+        "folder": "C:/Users/Asus/OneDrive/M\u00e1y t\u00ednh/IMPORTANT/PORT1/.librarystudio/Poses", 
+        "type": ".pose"
+    }, 
+    "C:/Users/Asus/OneDrive/M\u00e1y t\u00ednh/IMPORTANT/PORT1/.librarystudio/Poses/p6.pose": {
+        "category": "Poses", 
+        "name": "p6.pose", 
+        "modified": 1722080146.8963132, 
+        "__class__": "studiolibrarymaya.poseitem.PoseItem", 
+        "path": "C:/Users/Asus/OneDrive/M\u00e1y t\u00ednh/IMPORTANT/PORT1/.librarystudio/Poses/p6.pose", 
+        "folder": "C:/Users/Asus/OneDrive/M\u00e1y t\u00ednh/IMPORTANT/PORT1/.librarystudio/Poses", 
+        "type": ".pose"
+    }, 
+    "C:/Users/Asus/OneDrive/M\u00e1y t\u00ednh/IMPORTANT/PORT1/.librarystudio/Poses/p7.pose": {
+        "category": "Poses", 
+        "name": "p7.pose", 
+        "__class__": "studiolibrarymaya.poseitem.PoseItem", 
+        "modified": 1722080188.542825, 
+        "path": "C:/Users/Asus/OneDrive/M\u00e1y t\u00ednh/IMPORTANT/PORT1/.librarystudio/Poses/p7.pose", 
+        "folder": "C:/Users/Asus/OneDrive/M\u00e1y t\u00ednh/IMPORTANT/PORT1/.librarystudio/Poses", 
+        "type": ".pose"
+    }, 
+    "C:/Users/Asus/OneDrive/M\u00e1y t\u00ednh/IMPORTANT/PORT1/.librarystudio/Poses/p8.pose": {
+        "category": "Poses", 
+        "name": "p8.pose", 
+        "modified": 1722080267.3402348, 
+        "__class__": "studiolibrarymaya.poseitem.PoseItem", 
+        "path": "C:/Users/Asus/OneDrive/M\u00e1y t\u00ednh/IMPORTANT/PORT1/.librarystudio/Poses/p8.pose", 
+        "folder": "C:/Users/Asus/OneDrive/M\u00e1y t\u00ednh/IMPORTANT/PORT1/.librarystudio/Poses", 
+        "type": ".pose"
+    }, 
+    "C:/Users/Asus/OneDrive/M\u00e1y t\u00ednh/IMPORTANT/PORT1/.librarystudio/Poses/p9.pose": {
+        "category": "Poses", 
+        "name": "p9.pose", 
+        "__class__": "studiolibrarymaya.poseitem.PoseItem", 
+        "modified": 1722080293.831081, 
+        "path": "C:/Users/Asus/OneDrive/M\u00e1y t\u00ednh/IMPORTANT/PORT1/.librarystudio/Poses/p9.pose", 
+        "folder": "C:/Users/Asus/OneDrive/M\u00e1y t\u00ednh/IMPORTANT/PORT1/.librarystudio/Poses", 
+        "type": ".pose"
+    }
+}
